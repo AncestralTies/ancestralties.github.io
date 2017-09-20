@@ -1,3 +1,8 @@
+---
+title: Ancestral Ties
+description: Wyrmrest Accord / US
+---
+
 # Ancestral Ties - Legion EPGP
 
 ## Overview
