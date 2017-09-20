@@ -86,6 +86,7 @@ Because tier tokens can yield a Warforged/Titanforged item and/or sockets, and a
 * Player must be a guild raider to be eligible for fishing rolls
 * Player must have EP over the MinEP threshold (see below)
 * Player must already possess an item-level-equivalent version of the base item. For example, to fish on a token that creates a Mythic 930+ tier helm, the player must already possess a tier helm that is Mythic 930+, Heroic Titanforged 930+, etc.
+
 #### Relic Fishing for NLC Eligibility:
 * Player must be a guild raider to be eligible for fishing rolls
 * Player must have EP over the MinEP threshold (see below)
